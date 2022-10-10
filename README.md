@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=500&center=true&vCenter=true&multiline=true&width=1200&height=100&lines=Hi+there!;Welcome+to+my+GitHub+Profile...)](https://git.io/typing-svg)
+<img src="productive.gif" width="auto" height="200px" align="right">
 
 
 
