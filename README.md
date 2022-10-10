@@ -4,8 +4,8 @@
 
 
 
-- 👋 Hi, I’m @HarshKrishan
-- 👀 I’m interested in problem solving 
+- 👋 Hi, I’m @Harsh Krishan
+- 👀 I’m a software geek and love to solve problems 
 - 🌱 I’m currently doing my undergrad @ IIITD
 - 📫 You can reach me out via below links :)
 
