@@ -1,3 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=500&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!;Welcome+to+my+GitHub+Profile...)](https://git.io/typing-svg)
+
+
+
+
 - 👋 Hi, I’m @HarshKrishan
 - 👀 I’m interested in problem solving 
 - 🌱 I’m currently doing my undergrad @ IIITD
