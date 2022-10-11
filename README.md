@@ -4,7 +4,6 @@
 
 
 
-- 👋 Hi, I’m @Harsh Krishan
 - 👀 I’m a software geek and I love to solve problems (coding only) 
 - 🌱 I’m currently doing my undergrad @ IIITD
 - 📫 You can reach me out via below links :)
