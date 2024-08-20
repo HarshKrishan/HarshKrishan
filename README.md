@@ -9,7 +9,7 @@
 - 📫 You can reach me out via below links :)
 
   <a href="mailto:krishanharsh82@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/harshkrishan/"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin" height="35px" width="auto"/></a>
+  <a href="https://www.linkedin.com/in/harshkrishan/"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin" height="35px" width="43px"/></a>
 
 <!---
 HarshKrishan/HarshKrishan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
