@@ -5,7 +5,7 @@
 
 
 - 👀 I’m a software geek and I love to solve problems (coding only) 
-- 🌱 I’m currently doing my undergrad @ IIITD
+- 🌱 I’m graduated from IIITD
 - 📫 You can reach me out via below links :)
 
   <a href="mailto:krishanharsh82@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
